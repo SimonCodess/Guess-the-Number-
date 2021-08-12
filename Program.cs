@@ -68,7 +68,7 @@ namespace Guess_the_Num
             else
             {
                 Console.WriteLine("This doesn't work, restart the program!");
-                Console.WriteLine("Just Simon");
+                
             }
         }
 
